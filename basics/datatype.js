@@ -16,3 +16,6 @@ console.log(3+3)
 console.log(typeof null); // object
 console.log(typeof undefined); //undefined
 
+// stack and heap
+//stack (Primitive)                                   heap (Reference or Non primitive)
+// number,string ,boolean (use copy value)             array , object (use real value)
